@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Unai Bolivar</h1>
-<h3 align="center">I'm a Software Engineer currently based in Madrid, Spain. I'm proficient in Frontend and Backend development.</h3>
+<h3 align="center">Currently at <a href="https://www.capcapital.uk/"> Cap Capital</a> as a front end software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujbolivar&label=Profile%20views&color=0e75b6&style=flat" alt="ujbolivar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/unaibolivar" target="blank"><img src="https://img.shields.io/twitter/follow/unaibolivar?logo=twitter&style=for-the-badge" alt="unaibolivar" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node**
+- 🌱 I’m currently learning **NextJS, CapacitorJS, Vite**
 
 - 👨‍💻 All of my projects are available at [www.unaibolivar.com](www.unaibolivar.com)
 
