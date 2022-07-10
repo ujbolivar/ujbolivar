@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.unaibolivar.com](www.unaibolivar.com)
 
-- 💬 Ask me about **JavaScript, MongoDB, Express, React, Node**
+- 💬 Ask me about **React, Typescript, JavaScript, Firebase, Material-UI**
 
 - 📫 How to reach me **unaibolivar@gmail.com**
 
