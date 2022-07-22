@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/unaibolivar" target="blank"><img src="https://img.shields.io/twitter/follow/unaibolivar?logo=twitter&style=for-the-badge" alt="unaibolivar" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, CapacitorJS, Vite**
+- 🌱 I’m currently learning **NuxtJS, Tailwind, CapacitorJS**
 
 - 👨‍💻 All of my projects are available at [www.unaibolivar.com](www.unaibolivar.com)
 
